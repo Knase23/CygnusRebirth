@@ -787,8 +787,8 @@ bg=cyan</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1070</x>
-      <y>590</y>
+      <x>1130</x>
+      <y>580</y>
       <w>210</w>
       <h>80</h>
     </coordinates>
@@ -799,5 +799,16 @@ Handles stuff that needs to be
 typed ingame. Like name when 
 saving highscore.</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1030</x>
+      <y>570</y>
+      <w>120</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;100.0;40.0</additional_attributes>
   </element>
 </diagram>
