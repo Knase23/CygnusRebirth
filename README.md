@@ -20,20 +20,20 @@ Programs used:
   - Library
     * Minim
 ---
-### Journal
+## Journal
 This will be updated, as I work on this project. It contains my thoughts and plans for each day.
-#### Saturday 6 Oct.
+### Saturday 6 Oct.
 ###### Plans
 + Working on planning out and sketching on class structure
 
 Today I have, planned out this project as best I can. Setting up for as smooth process as possible.
-#### Sunday 7 Oct.
+### Sunday 7 Oct.
 ###### Plans
 + Create all files that we might need
 + [Reviewing previous work](https://github.com/Knase23/Group11)
  + Think of possible improvements and research game tricks to improve FPS/Performance
 
-####  Monday 8 Oct.
+### Monday 8 Oct.
 ###### Plans
 + Ask others of sources to go after to improve game programming.
  + Tips and tricks
@@ -41,5 +41,5 @@ Today I have, planned out this project as best I can. Setting up for as smooth p
 + Ask if anyone is interested in helping or just being a ball wall to bounce ides on.
 + Start programming
 
-#### Tuesday 9 Oct.
+### Tuesday 9 Oct.
 ###### Plans
