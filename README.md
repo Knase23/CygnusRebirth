@@ -10,8 +10,15 @@ ___
 ## Documantation
 Programs used:
 + Atom
+  - Community Packages
+    * language-gitignore
+    * processing 0.13.0
+    * processing-autocomplete
+    * processing-language
 + UMLet
 + Processing 3
+  - Library
+    * Minim
 ---
 ### Journal
 This will be updated, as I work on this project. It contains my thoughts and plans for each day.
