@@ -5,5 +5,13 @@ application.linux64
 application.windows32
 application.windows64
 application.macosx
+
+# Files
+*.java
+*.class
+# Folder created by Atom, when running processing
+*/build
+# Folder created by Sublime Text 3, when running processing
 */build-tmp
-HighScores.txt
+# Created by Cygnus Squad
+Highscores.txt
